@@ -1,0 +1,67 @@
+---
+title: "Decreto Ley Nº 14657 - DESAFECTACION DEL DOMINIO DEL ESTADO, INMUEBLES PERTENECIENTES A LA ADMINISTRACION NACIONAL PUERTOS Y SE AFECTAN AL GOBIERNO DEPARTAMENTAL DE MONTEVIDEO"
+identifier: "UY-decreto-ley-14657"
+country: "uy"
+rank: "decreto_ley"
+publication_date: "1977-06-07"
+last_updated: "1977-06-07"
+status: "in_force"
+source: "https://www.impo.com.uy/bases/decretos-ley/14657-1977"
+department: "APARICIO MENDEZ - EDUARDO SAMPSON"
+official_type: "Decreto Ley"
+official_number: "14657"
+year: "1977"
+promulgation_date: "1977-05-27"
+update_label: "Documento Actualizado"
+gazette_scan_url: "https://www.impo.com.uy/diariooficial/1977/06/07/5"
+rnld_citation: "tomo 1, semestre 1, 1977, p. 1115"
+signatories: "APARICIO MENDEZ - EDUARDO SAMPSON"
+article_count: "2"
+collection: "decretos-ley"
+source_encoding: "ISO-8859-1"
+images_dropped: "0"
+editorial_notes_count: "0"
+---
+# Decreto Ley Nº 14657 - DESAFECTACION DEL DOMINIO DEL ESTADO, INMUEBLES PERTENECIENTES A LA ADMINISTRACION NACIONAL PUERTOS Y SE AFECTAN AL GOBIERNO DEPARTAMENTAL DE MONTEVIDEO
+
+##### Artículo 1
+
+Desaféctanse del dominio del Estado (Administración Nacional de
+Puertos), y se afectan al Gobierno Departamental de Montevideo, los
+inmuebles sitos en la 3ª Sección Judicial de Montevideo, empadronados con
+los números 4.505 y 4.506, afectados por la apertura y ensanche de la
+Avenida Intendente Municipal Ingeniero Juan P. Fabini y el ensanche y la
+pavimentación de la Rambla Franklin D. Roosevelt entre las calles Treinta
+y Tres y Río Negro, y cuyo valor se ha establecido por las partes en
+N$ 402.922.59 (nuevos pesos cuatrocientos dos mil novecientos veintidós
+con cincuenta y nueve centésimos).
+
+Tal desafectación y la consecuente afectación se hace a título de
+permuta con los siguientes bienes y cumplimientos de las obligaciones que
+se expresan, a cargo del Gobierno Departamental de Montevideo:
+
+1º De los bienes inmuebles de propiedad del referido Gobierno
+ Departamental con la misma ubicación, empadronados con los números
+ 4.601, 4.602 (parte), 4.603, 4.604, 4.605, 4.607, 4.608 y 108.930,
+ que constituyen una manzana de dos mil ochocientos cincuenta
+ metros cuadrados delimitada por la Avenida Intendente Municipal
+ Ingeniero Juan P. Fabini, Rambla Franklin D. Roosevelt y calle
+ Juncal y cuyo valor ha sido establecido por las partes en
+ N$ 267.734.42 (nuevos pesos doscientos sesenta y siete mil
+ setecientos treinta y cuatro con cuarenta y dos centésimos), los que
+ quedan afectados a la administración enajenante.
+
+2º Del pago efectivo a la Administración Nacional de Puertos por
+ diferencia de precio, de N$ 135.188.17 (nuevos pesos ciento treinta
+ t cinco mil ciento ochenta y ocho con diecisiete centésimos); y
+
+3º De la construcción a costa del Gobierno Departamental mencionado,
+ del pavimento frentista a la Avenida Intendente Municipal Ingeniero
+ Juan P. Fabini, que delimita, por uno de los lados el predio de que
+ se trata.
+
+##### Artículo 2
+
+Comuníquese, etc.
+
+**APARICIO MENDEZ - EDUARDO SAMPSON**
