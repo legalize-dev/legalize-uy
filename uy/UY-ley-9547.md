@@ -1,0 +1,36 @@
+---
+title: "Ley Nº 9547 - JUBILACIONES Y PENSIONES. SUSPENSION DE DESCUENTOS"
+identifier: "UY-ley-9547"
+country: "uy"
+rank: "ley"
+publication_date: "1936-01-16"
+last_updated: "1936-01-16"
+status: "in_force"
+source: "https://www.impo.com.uy/bases/leyes/9547-1936"
+department: "TERRA - MARTIN R. ECHEGOYEN"
+official_type: "Ley"
+official_number: "9547"
+year: "1936"
+promulgation_date: "1936-01-03"
+update_label: "Documento Actualizado"
+gazette_scan_url: "https://www.impo.com.uy/diariooficial/1936/01/16/3"
+rnld_citation: "tomo 1, 1936, p. 15"
+signatories: "TERRA - MARTIN R. ECHEGOYEN"
+article_count: "2"
+collection: "leyes"
+source_encoding: "ISO-8859-1"
+images_dropped: "0"
+editorial_notes_count: "0"
+---
+# Ley Nº 9547 - JUBILACIONES Y PENSIONES. SUSPENSION DE DESCUENTOS
+
+##### Artículo 1
+
+Quedan sin efecto, durante el ejercicio 1936, los descuentos que gravan
+las jubilaciones, pensiones y retiros, establecidos por la ley de 20 de Agosto de 1931.
+
+##### Artículo 2
+
+Comuníquese, etc.
+
+**TERRA - MARTIN R. ECHEGOYEN**
