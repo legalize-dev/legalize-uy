@@ -1,0 +1,41 @@
+---
+title: "Decreto Ley Nº 14927 - MODIFICACION DEL DECRETO LEY 14.106, RELATIVO A RETRIBUCIONES POR SUPLEMENTO DE VIVIENDA A OFICIALES Y PERSONAL DE TROPA CON FAMILIA CONSTITUIDA"
+identifier: "UY-decreto-ley-14927"
+country: "uy"
+rank: "decreto_ley"
+publication_date: "1979-09-21"
+last_updated: "1979-09-21"
+status: "in_force"
+source: "https://www.impo.com.uy/bases/decretos-ley/14927-1979"
+department: "APARICIO MENDEZ - WALTER RAVENNA - MANUEL J. NUÑEZ - ADOLFO FOLLE MARTINEZ
+- VALENTIN ARISMENDI - DANIEL DARRACQ - EDUARDO J. SAMPSON - ELIAS PEREZ
+FERNANDEZ - JOSE E. ETCHEVERRY STIRLING - ANTONIO CAÑELLAS - JUAN C.
+CASSOU - FERNANDO BAYARDO BENGOA"
+official_type: "Decreto Ley"
+official_number: "14927"
+year: "1979"
+promulgation_date: "1979-08-31"
+update_label: "Documento Actualizado"
+gazette_scan_url: "https://www.impo.com.uy/diariooficial/1979/09/21/7"
+rnld_citation: "tomo 1, semestre 2, 1979, p. 508"
+signatories: "APARICIO MENDEZ - WALTER RAVENNA - MANUEL J. NUÑEZ - ADOLFO FOLLE MARTINEZ - VALENTIN ARISMENDI - DANIEL DARRACQ - EDUARDO J. SAMPSON - ELIAS PEREZ FERNANDEZ - JOSE E. ETCHEVERRY STIRLING - ANTONIO CAÑELLAS - JUAN C. CASSOU - FERNANDO BAYARDO BENGOA"
+article_count: "2"
+collection: "decretos-ley"
+source_encoding: "ISO-8859-1"
+images_dropped: "0"
+editorial_notes_count: "1"
+---
+# Decreto Ley Nº 14927 - MODIFICACION DEL DECRETO LEY 14.106, RELATIVO A RETRIBUCIONES POR SUPLEMENTO DE VIVIENDA A OFICIALES Y PERSONAL DE TROPA CON FAMILIA CONSTITUIDA
+
+##### Artículo 1
+
+(*)
+
+##### Artículo 2
+
+Comuníquese, etc.
+
+**APARICIO MENDEZ - WALTER RAVENNA - MANUEL J. NUÑEZ - ADOLFO FOLLE MARTINEZ
+- VALENTIN ARISMENDI - DANIEL DARRACQ - EDUARDO J. SAMPSON - ELIAS PEREZ
+FERNANDEZ - JOSE E. ETCHEVERRY STIRLING - ANTONIO CAÑELLAS - JUAN C.
+CASSOU - FERNANDO BAYARDO BENGOA**
