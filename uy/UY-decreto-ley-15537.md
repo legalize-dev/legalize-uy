@@ -1,0 +1,54 @@
+---
+title: "Decreto Ley Nº 15537 - DESAFECTACION DE BIEN INMUEBLE. MONTEVIDEO"
+identifier: "UY-decreto-ley-15537"
+country: "uy"
+rank: "decreto_ley"
+publication_date: "1984-05-02"
+last_updated: "1984-05-02"
+status: "in_force"
+source: "https://www.impo.com.uy/bases/decretos-ley/15537-1984"
+department: "GREGORIO C. ALVAREZ - JULIO C. RAPELA - JUAN BAUTISTA SCHROEDER - ENRIQUE
+V. FRIGERIO"
+official_type: "Decreto Ley"
+official_number: "15537"
+year: "1984"
+promulgation_date: "1984-04-12"
+update_label: "Documento Actualizado"
+gazette_scan_url: "https://www.impo.com.uy/diariooficial/1984/05/02/1"
+rnld_citation: "tomo 1, semestre 1, 1984, p. 621"
+signatories: "GREGORIO C. ALVAREZ - JULIO C. RAPELA - JUAN BAUTISTA SCHROEDER - ENRIQUE V. FRIGERIO"
+article_count: "3"
+collection: "decretos-ley"
+source_encoding: "ISO-8859-1"
+images_dropped: "0"
+editorial_notes_count: "0"
+---
+# Decreto Ley Nº 15537 - DESAFECTACION DE BIEN INMUEBLE. MONTEVIDEO
+
+##### Artículo 1
+
+Desaféctase de su actual destino en el patrimonio del Estado -Ministerio
+del Interior- y aféctase el Consejo Nacional de Educación (CONAE), a
+título gratuito, con destino a la construcción de un nuevo local para la
+escuela número 141, parte del inmueble empadronado con el Nº 92.304,
+ubicado en la Decimoséptima Sección Judicial del departamento de
+Montevideo, el que, según plano del agrimensor Joaquín Spinak, de agosto
+de 1983- Carpeta Catastral Nº 3019- consta de una superficie de 10.642 m2
+que se deslinda así: al Oeste 50.61 m de frente a la avenida Pedro de
+Mendoza; al Norte 216,75 m lindando con el Padrón Nº 92.305; al Este 50.00
+m y al Sur 208,93 m confinando ambos lados con el Padrón Nº 92.304.
+
+##### Artículo 2
+
+El Registro de la Propiedad (Sección Inmobiliaria) procederá a la
+registración correspondiente con la sola presentación de certificado
+notarial, que se expedirá con referencia precisa a los datos
+individualizantes del bien raíz, título y modo de adquisición y a la
+inscripción del instrumento respectivo.
+
+##### Artículo 3
+
+Comuníquese, etc.
+
+**GREGORIO C. ALVAREZ - JULIO C. RAPELA - JUAN BAUTISTA SCHROEDER - ENRIQUE
+V. FRIGERIO**
