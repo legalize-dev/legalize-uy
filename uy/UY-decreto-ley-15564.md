@@ -1,0 +1,43 @@
+---
+title: "Decreto Ley Nº 15564 - MODIFICACION DEL ART. 14 DE LA LEY 15.443, RELATIVO A LA DIRECCION
+GENERAL DE LOS LABORATORIOS QUE ELABORAN PRODUCTOS BIOLOGICOS"
+identifier: "UY-decreto-ley-15564"
+country: "uy"
+rank: "decreto_ley"
+publication_date: "1984-06-18"
+last_updated: "1984-06-18"
+status: "in_force"
+source: "https://www.impo.com.uy/bases/decretos-ley/15564-1984"
+department: "GREGORIO C. ALVAREZ - ARMANDO LOPEZ SCAVINO - JULIO CESAR RAPELA - CARLOS
+A. MAESO - LIONEL O. RIAL - JUSTO M. ALONSO - JUAN BAUTISTA SCHROEDER -
+FRANCISCO D. TOURREILLES - FILIBERTO GINZO GIL - NESTOR J. BOLENTINI -
+CARLOS MATTOS MOGLIA - ENRIQUE V. FRIGERIO"
+official_type: "Decreto Ley"
+official_number: "15564"
+year: "1984"
+promulgation_date: "1984-06-01"
+update_label: "Documento Actualizado"
+gazette_scan_url: "https://www.impo.com.uy/diariooficial/1984/06/18/6"
+rnld_citation: "tomo 1, semestre 1, 1984, p. 935"
+signatories: "GREGORIO C. ALVAREZ - ARMANDO LOPEZ SCAVINO - JULIO CESAR RAPELA - CARLOS A. MAESO - LIONEL O. RIAL - JUSTO M. ALONSO - JUAN BAUTISTA SCHROEDER - FRANCISCO D. TOURREILLES - FILIBERTO GINZO GIL - NESTOR J. BOLENTINI - CARLOS MATTOS MOGLIA - ENRIQUE V. FRIGERIO"
+article_count: "2"
+collection: "decretos-ley"
+source_encoding: "ISO-8859-1"
+images_dropped: "0"
+editorial_notes_count: "1"
+---
+# Decreto Ley Nº 15564 - MODIFICACION DEL ART. 14 DE LA LEY 15.443, RELATIVO A LA DIRECCION
+GENERAL DE LOS LABORATORIOS QUE ELABORAN PRODUCTOS BIOLOGICOS
+
+##### Artículo 1
+
+(*)
+
+##### Artículo 2
+
+Comuníquese, etc.
+
+**GREGORIO C. ALVAREZ - ARMANDO LOPEZ SCAVINO - JULIO CESAR RAPELA - CARLOS
+A. MAESO - LIONEL O. RIAL - JUSTO M. ALONSO - JUAN BAUTISTA SCHROEDER -
+FRANCISCO D. TOURREILLES - FILIBERTO GINZO GIL - NESTOR J. BOLENTINI -
+CARLOS MATTOS MOGLIA - ENRIQUE V. FRIGERIO**
