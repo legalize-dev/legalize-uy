@@ -1,0 +1,37 @@
+---
+title: "Decreto Ley Nº 14636 - DENOMINACION DE ESCUELA PUBLICA Nº 6. CIUDAD DE CARMELO. COLONIA"
+identifier: "UY-decreto-ley-14636"
+country: "uy"
+rank: "decreto_ley"
+publication_date: "1977-04-11"
+last_updated: "1977-04-11"
+status: "in_force"
+source: "https://www.impo.com.uy/bases/decretos-ley/14636-1977"
+department: "APARICIO MENDEZ - DANIEL DARRACQ"
+official_type: "Decreto Ley"
+official_number: "14636"
+year: "1977"
+promulgation_date: "1977-03-29"
+update_label: "Documento Actualizado"
+gazette_scan_url: "https://www.impo.com.uy/diariooficial/1977/04/11/3"
+rnld_citation: "tomo 1, semestre 1, 1977, p. 505"
+signatories: "APARICIO MENDEZ - DANIEL DARRACQ"
+article_count: "2"
+collection: "decretos-ley"
+source_encoding: "ISO-8859-1"
+images_dropped: "0"
+editorial_notes_count: "0"
+---
+# Decreto Ley Nº 14636 - DENOMINACION DE ESCUELA PUBLICA Nº 6. CIUDAD DE CARMELO. COLONIA
+
+##### Artículo 1
+
+Desígnase con el nombre de "Manuela T. Noaín", la Escuela Nº 6 de 2º Grado
+de Carmelo (Departamento de Colonia), dependiente del Consejo Nacional de
+Educación.
+
+##### Artículo 2
+
+Comuníquese, etc.
+
+**APARICIO MENDEZ - DANIEL DARRACQ**
